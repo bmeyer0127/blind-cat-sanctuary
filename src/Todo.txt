@@ -1,0 +1,33 @@
+Much to do I'd say:
+
+Focus on:
+- Restyle the donate modal and make it more modular
+- Using Iconoir. Fiddle around with that and make it fit the corner of the screen
+- Clean up main page (space out buttons and text differently) and create footer with info
+- Figure out text wrapping with About Us page
+
+Home:
+- Banner
+- Animate buttons on navigation to other page
+- Cute donate button that redirects to donate page
+- Email list subscription
+- Entry text 
+
+About Us:
+
+Contact: 
+
+Help Us: 
+
+The Cats:
+
+Photos: 
+
+Wishlist:
+
+Volunteer:
+
+Memorials:
+
+Watch Live:
+

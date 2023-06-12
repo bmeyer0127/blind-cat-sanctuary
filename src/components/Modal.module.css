@@ -1,0 +1,32 @@
+.modal {
+  padding-top: 1rem;
+  position: fixed;
+  top: 20vh;
+  left: calc(50% - 15rem);
+  width: 30rem;
+  height: 20rem;
+  background-color: #e1d9b7;
+  border-radius: 6px;
+  filter: drop-shadow(3px 2px 3px #323031);
+  z-index: 10;
+  font-size: 2rem;
+  font-size: 1.5rem;
+}
+
+.donateOnce {
+}
+
+.donateMonthly {
+}
+
+.buttonContainer {
+  position: absolute;
+  top: 250px;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #e1d9b7;
+  height: fit-content;
+  width: fit-content;
+}

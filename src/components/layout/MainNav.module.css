@@ -1,0 +1,31 @@
+.header {
+  width: 100%;
+  height: 5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header ul {
+  list-style: none;
+  display: flex;
+  align-items: baseline;
+}
+
+.header li {
+  background-color: #c98474;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+  border: solid;
+  border-color: #323031;
+  border-radius: 8px;
+  border-width: 1px;
+  padding: 5px;
+  filter: drop-shadow(3px 2px 3px #323031);
+}
+
+.header a {
+  text-decoration: none;
+  color: #323031;
+  background-color: #c98474;
+}

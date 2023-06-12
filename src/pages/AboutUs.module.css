@@ -1,0 +1,38 @@
+.container {
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  width: fit-content;
+  height: fit-content;
+}
+
+.aboutUsLinks {
+  text-decoration: none;
+}
+
+.header {
+  display: flex;
+  position: absolute;
+  width: fit-content;
+  height: fit-content;
+}
+
+.aboutUsText {
+  float: right;
+  width: 40%;
+  height: fit-content;
+  line-height: 1.5rem;
+  top: 6rem;
+  position: relative;
+  text-align: justify;
+}
+
+.blindCat1 {
+  float: left;
+  margin: 5px;
+  display: flex;
+  height: 350px;
+  top: 6rem;
+  right: 3rem;
+  position: relative;
+}
